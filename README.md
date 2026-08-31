@@ -1,0 +1,2 @@
+# NFC-Triggered-Offline-Emergency-Triage-Hazard-Mitigation-RAG-for-Cleanrooms
+An air-gapped, local (RAG) emergency response platform designed for mission-critical cleanroom and propulsion laboratory environments. It bridges hardware NFC triggers, vector search, and local AI synthesis to deliver instant hazard mitigation protocols during chemical emergency events—operating entirely offline without cloud dependencies.
