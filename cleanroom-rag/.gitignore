@@ -1,0 +1,23 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables & secrets
+.env
+
+# Vector DB storage & data files
+lancedb_data/
+*.lance
+*.sqlite3
+
+# Node/React dependencies (if UI is in same repo)
+node_modules/
+build/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db

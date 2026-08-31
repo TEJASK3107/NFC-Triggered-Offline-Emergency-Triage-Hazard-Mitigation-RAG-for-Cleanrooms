@@ -1,0 +1,9 @@
+{
+    "short_name": "CleanroomRAG",
+    "name": "Cleanroom Air-Gapped Emergency Triage",
+    "icons": [],
+    "start_url": "/",
+    "background_color": "#0d1117",
+    "theme_color": "#da3633",
+    "display": "standalone"
+}
