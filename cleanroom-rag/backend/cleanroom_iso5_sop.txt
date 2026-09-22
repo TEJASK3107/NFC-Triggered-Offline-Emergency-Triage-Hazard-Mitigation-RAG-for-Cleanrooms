@@ -1,0 +1,15 @@
+ISRO SATELLITE INTEGRATION CLEANROOM STANDARD OPERATING PROCEDURE
+Document ID: SOP-CLN-010
+Facility: ISO Class 5 Cleanroom
+Substance: Isopropanol (IPA) & Solvents
+
+1. ENTRY & GARBING PROTOCOL
+All personnel entering Cleanroom Bay A-1 must execute full garbing procedures:
+- Pass through air showers for 30 seconds prior to entry.
+- Wear full non-linting coveralls, hood, boot covers, and nitrile cleanroom gloves.
+- Mobile phones, outer paper, and non-approved stationery are strictly prohibited inside ISO Class 5 zones.
+
+2. CHEMICAL CLEANING PROCEDURES
+- Isopropanol (IPA) used for precision optical wiping must be stored in grounding-rated safety dispensers.
+- Limit solvent containers to 500mL capacity per station.
+- Dispose of solvent-soaked wipes in closed, fire-resistant hazardous waste bins immediately after use.
